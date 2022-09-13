@@ -6,8 +6,8 @@
 *Return: 0 nothing, return void
 */
 
-int main(void)
-
+int main(void) 
+#include "main.h
 {
 	_putchar('_');
 	_putchar('p');
